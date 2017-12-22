@@ -1,0 +1,6 @@
+E:\Projects\DelegSample\DelegSample\bin\Debug\DelegSample.exe.config
+E:\Projects\DelegSample\DelegSample\bin\Debug\DelegSample.exe
+E:\Projects\DelegSample\DelegSample\bin\Debug\DelegSample.pdb
+E:\Projects\DelegSample\DelegSample\obj\Debug\DelegSample.csprojResolveAssemblyReference.cache
+E:\Projects\DelegSample\DelegSample\obj\Debug\DelegSample.exe
+E:\Projects\DelegSample\DelegSample\obj\Debug\DelegSample.pdb
